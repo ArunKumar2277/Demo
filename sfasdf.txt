@@ -1,0 +1,24 @@
+digestcycle
+
+what is a watcher
+
+how do we share data b/w controllers
+
+what is transculation
+
+isolated unit test
+
+
+
+Validation
+Rootscope
+Routing
+
+-------------------------------------
+09/aug-18
+today's call things
+
+1. jenkins
+
+2. visio: by using this we can create a uml diagrams
+
